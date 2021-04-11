@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+}
+.top{
+    height: 200px;
+    width: 100%;
+    background: #ffd275;
+    text-align: center;
+}
+.middle{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;  
+    text-align: center;  
+}
+.mid_left{
+    height: 400px;
+    width: 33%;
+    background: #e8ae68;
+    float: left;
+}
+.mid_mid{
+    height: 400px;
+    width: 33%;
+    background: #a57f60;
+    float: left;
+}
+.mid_right{
+    height: 400px;
+    width: 34%;
+    background: #e3a587;
+    float: left;
+}
+.bottom{
+    height: 200px;
+    width: 100%;
+    background: #db5a42;
+    text-align: center;
+}
